@@ -5,8 +5,8 @@ title: glance install
 
 マシンのリソース使用状況がcommand line上で見られる
 
-> 参考) command line - System Monitoring Tools For Ubuntu - Ask Ubuntu    
-> http://askubuntu.com/questions/293426/system-monitoring-tools-for-ubuntu
+
+> -参考) [command line - System Monitoring Tools For Ubuntu - Ask Ubuntu]((http://askubuntu.com/questions/293426/system-monitoring-tools-for-ubuntu)-
 
 
 ### - How to install and use
