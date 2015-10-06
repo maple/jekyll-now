@@ -17,7 +17,7 @@ Interest:
 
           hardware ; arduino, mbed, rasberry pi
           Software ; ruby, coq, haskell, R
-          topic ;    Deep Learning, formal method
+          topic ;    Deep Learning, formal method, Security
 
 ### Contact me
 
