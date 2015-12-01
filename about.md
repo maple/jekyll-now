@@ -21,4 +21,7 @@ Interest:
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+* [maplewine+contact-github atmark gmail  dot com](mailto:dummy@domain.com)   
+   do not click above to send email. copy and delete space and replace atmark and dot to each mark.
+
+* twitter: [@fortunan](https://twitter.com/fortunan/)
