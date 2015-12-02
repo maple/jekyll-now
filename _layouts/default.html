@@ -30,7 +30,12 @@
             <a href="{{ site.baseurl }}/">Blog</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
-          <div class="grid" id="searchBar">
+          </header>
+            <div id="archives">
+                browse by <a title="The complete archive of {{ site.name }}'s Blog by category"
+                     href="{{ site.url}}{{site.baseurl}}/categoryview">category</a>
+            </div>
+            <div class="grid" id="searchBar">
                <div>
                    <div id="search">
                        <form role="search" method="get" action="{{site.baseurl}}/search/">
@@ -40,13 +45,6 @@
                        </form>
                    </div>
                </div>
-           </div>          
-        </header>
-          <div class="container" >
-            <div id="archives">
-                browse by <a title="The complete archive of {{ site.name }}'s Blog by category"
-                         href="{{ site.url}}{{site.baseurl}}/categoryview">category</a>
-            </div>
           </div>
       </div>
     </div>
