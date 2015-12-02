@@ -46,6 +46,18 @@ Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Ma
 
 > You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
+#### front-matter に使用できるパラメータについて (2015/12/2 追加) 
+
+* layout: _layouts ディレクトに指定されている名前を指定する。jelyl-now レポジトリをクローンしているのならば、post になる。
+* title: 投稿するブログタイトル。他のパラメータとの衝突を防ぐために引用符を使ったほうがよい。
+* Published: ここで指定できるのは true / false の2種類のみ。投稿したものを公開するか非公開かを選択
+* date: 投稿した日付。これはオプション扱い。定義されていないければファイル名から日付を取得する。
+      ファイル名は"2015-02-17-my-first-post.md"というように "-"で区切って、
+      年-月-日-タイトル.md となる。
+* categories またはcategory: カテゴリーのリストを記述。コンマで区切る。引用符[]の中に記述する。これもオプションだが指定したほうがよい。(ファイル名のtitle から取ってくると思い込んでましたが違うようです)
+* tags: タグクラウドで利用されるタグを列挙する。オプション扱いですがお勧め。
+
+
 ## Local Development
 
 1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
