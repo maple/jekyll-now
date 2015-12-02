@@ -56,7 +56,7 @@ Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Ma
       年-月-日-タイトル.md となる。
 * categories またはcategory: カテゴリーのリストを記述。コンマで区切る。引用符[]の中に記述する。これもオプションだが指定したほうがよい。(ファイル名のtitle から取ってくると思い込んでましたが違うようです)
 * tags: タグクラウドで利用されるタグを列挙する。オプション扱いですがお勧め。
-
+* permalink: base url の跡に続くURLを変更したい時に使用する。何も記載しなければ/year/month/day/title.html となる。
 
 ## Local Development
 
