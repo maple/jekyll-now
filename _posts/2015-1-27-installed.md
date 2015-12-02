@@ -3,7 +3,7 @@ layout: post
 title: glance install
 date: 2015-01-27
 tags: [management tool], [observation]
-categories: tools
+categories: [tools]
 ---
 
 マシンのリソース使用状況がcommand line上で見られる
