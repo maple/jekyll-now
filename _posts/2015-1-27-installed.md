@@ -1,6 +1,6 @@
 ---
 layout: post
-title: glance install
+title: [glance install]
 date: 2015-01-27
 tags: [management tool], [observation]
 categories: [tools]
