@@ -1,9 +1,8 @@
 ---
 layout: post
-title: [glance install]
+title: "glance install"
 date: 2015-01-27
-categories: tools
-tags: [tools,observation,ubuntu]
+categories: tools infrastracture installed
 ---
 
 マシンのリソース使用状況がcommand line上で見られる
