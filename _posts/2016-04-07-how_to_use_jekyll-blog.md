@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2016-04-07
+title: "jekyll now を使って変更したところ"
 categories: tools infrastracture installed jekyll
 ---
 
