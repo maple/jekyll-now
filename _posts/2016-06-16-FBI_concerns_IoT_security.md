@@ -3,6 +3,7 @@ layout: post
 date: 2016-06-16
 title: "FBIによるIoT機器に対するセキュリティの懸念 (ざっくり和訳)"
 categories: security FBI translation
+timezone: Asia/Tokyo
 ---
 
 半年以上前に発行されたレポートですが、フォルダ整理していたらざっくり訳したものを見つけたのでここに貼り付けておきます。
