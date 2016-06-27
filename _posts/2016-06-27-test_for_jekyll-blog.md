@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-05-15
+date: 2016-06-27
 title: "jekyll のテスト"
 categories: jekyll test
 ---
