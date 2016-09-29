@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amazon Cloud Drive Desktop 【Mac版】で日本のアカウントが利用できない"
-categories: Mac Apps
+categories: Mac Apps Amazon Storage Cloud
 tags: Mac Apps Amazon Storage Cloud
 ---
 
