@@ -1,6 +1,7 @@
 ---
 layout: post
 title: はじめに
+categories: Introduction
 ---
 
 # このページを作成した動機

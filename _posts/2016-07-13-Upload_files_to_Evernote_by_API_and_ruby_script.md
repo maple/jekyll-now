@@ -2,7 +2,7 @@
 layout: post
 date: 2016-07-09
 title: "EvernoteにPDFファイルをアップロードするRubyスクリプト"
-categories: ruby Evernote programming
+categories: Ruby Evernote Programming
 timezone: Asia/Tokyo
 ---
 

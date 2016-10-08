@@ -2,7 +2,7 @@
 layout: post
 date: 2016-04-07
 title: "jekyll now を使って変更したところ"
-categories: tools infrastracture installed jekyll
+categories: Tools Infrastracture Installed Jekyll
 ---
 
 jekyll nowを使い出してから1年経過しました。と言ってもあまり更新できなかったのですが。

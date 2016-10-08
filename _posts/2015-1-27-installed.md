@@ -2,7 +2,7 @@
 layout: post
 title: "glance install"
 date: 2015-01-27
-categories: tools infrastracture installed
+categories: Tools Infrastracture Installed
 ---
 
 マシンのリソース使用状況がcommand line上で見られる

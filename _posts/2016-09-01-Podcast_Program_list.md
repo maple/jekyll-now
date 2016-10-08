@@ -2,7 +2,7 @@
 layout: post
 date: 2016-09-01
 title: "Podcast に登録している番組リスト"
-categories: podcast app
+categories: Podcast App
 timezone: Asia/Tokyo
 ---
 
