@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2016-10-20
+date: 2016-12-20
 title: "レジストリを書換えて、Windowsのキーマップを変更する"
 categories: windows keyboard registry
 excerpt: "Windowsでキーボードの配置に不満があったので変更した話"
@@ -23,9 +23,9 @@ timezone: Asia/Tokyo
 
 ## 参考にしたサイト
 
-[「Caps」と「Ctrl」の入れ替え](http://uguisu.skr.jp/Windows/winCaps.html)
+- [「Caps」と「Ctrl」の入れ替え](http://uguisu.skr.jp/Windows/winCaps.html)
 
-[ASCII.jp：CtrlとCapsを入れ替え！　Windowsのキー配列をカスタマイズ (2/2)｜深厚のWindows使いこなしテクニック](http://ascii.jp/elem/000/000/927/927191/index-2.html)
+- [ ASCII.jp：CtrlとCapsを入れ替え！　Windowsのキー配列をカスタマイズ (2/2)｜深厚のWindows使いこなしテクニック](http://ascii.jp/elem/000/000/927/927191/index-2.html)
 
 
 ## やったこと
