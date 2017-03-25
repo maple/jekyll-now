@@ -2,7 +2,7 @@
 layout: post
 date: 2017-03-22
 title: "音声認識英会話アプリで英会話をしばらく練習してみました"
-categories: English Technolgy 
+categories: English Technolgy TOEIC
 excerpt: "音声認識を利用した英会話アプリを数ヶ月使ってみて実際にTOEICテストを受けてみました。"
 timezone: Asia/Tokyo
 ---
