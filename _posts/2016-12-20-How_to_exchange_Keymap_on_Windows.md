@@ -2,7 +2,7 @@
 layout: post
 date: 2016-12-20
 title: "レジストリを書換えて、Windowsのキーマップを変更する"
-categories: windows keyboard registry
+categories: Windows Keyboard Registry
 excerpt: "Windowsでキーボードの配置に不満があったので変更した話"
 timezone: Asia/Tokyo
 ---
